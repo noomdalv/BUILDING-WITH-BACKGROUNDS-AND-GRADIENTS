@@ -1,11 +1,3 @@
----
 linters:
-    flake8:
-    eslint:
-        config: './eslint.config'
-    csslint:
-
-files:
-    ignore:
-        - 'index.css'
-        - '.git/*'
+  stylelint:
+    config: 'stylelint.config.js'
