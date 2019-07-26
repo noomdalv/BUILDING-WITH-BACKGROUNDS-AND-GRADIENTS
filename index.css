@@ -191,14 +191,6 @@ nav ul li a span {
   padding: 0;
 }
 
-.btmImg {
-  float: left;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  height: 200px;  
-}
-
 .bi1 {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg");
 }
@@ -213,6 +205,14 @@ nav ul li a span {
 
 .bi4 {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg");
+}
+
+.btmImg {
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  height: 200px;
 }
 
 footer {
