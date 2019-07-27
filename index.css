@@ -190,6 +190,11 @@ nav ul li a span {
   background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/cta_your_verse_27pt.png");
   width: 980px;
   height: 64px;
+  margin-top: -2px;
+}
+
+#thirdTextImg:hover {
+  margin-top: -34px;
 }
 
 #bottomImages {
