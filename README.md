@@ -1,5 +1,5 @@
 # Project: Building with backgrounds and gradients
-Microverse
+<b>Microverse</b>
 
 This is the fourth project (solo) of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
 * The goal was to recreate an Apple.com page, working with backgrounds and gradients css properties.
@@ -22,7 +22,8 @@ git clone https://github.com/noomdalv/Building-with-Backgrounds-and-Gradients.gi
 
 ## 👤 Author
 
-- Github: [@noomdalv](https://github.com/noomdalv/)
+- Github: [@noomdalv](https://github.com/noomdalv/)<br />
+  Email: vladlunasan@gmail.com
 
 ## License
 
